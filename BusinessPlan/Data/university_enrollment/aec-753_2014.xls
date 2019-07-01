@@ -1,0 +1,128 @@
+<style class="text/css">caption {font-size: 12pt;text-align:left;font-weight: bold;}tfoot td { text-align:left; }tbody td { text-align:right; }</style>
+<table class="ApartNum Cols5">
+<caption><p><br />Enseñanza universitaria. Curso 2013/14<br />Alumnos matriculados. Por sexo y universidades<br /></p></caption><tfoot>
+  <tr>
+    <td colspan="5">Fuente: Departamento de Economía y Conocimiento.</td>
+  </tr>
+  <tr>
+    <td colspan="5">Nota: No se incluyen los masters oficiales ni doctorados.</td>
+  </tr>
+  <tr>
+    <td colspan="5">Advertencia: Los datos del total de alumnos matriculados hombres y mujeres, publicados el 19 de junio de 2015, eran erróneos. Se corrigieron el 22 de diciembre de 2015.</td>
+  </tr>
+</tr><tr><td></td></tr></tfoot>
+<tbody>
+<tr class="cap">
+<th></th>
+<th scope="col" style="text-align:right">Hombres</th>
+<th scope="col" style="text-align:right">Mujeres</th>
+<th scope="col" style="text-align:right">Total</th>
+</tr>
+<tr class="primera total">
+<th style="font-weight:bold;text-align:left" scope="row">Alumnos matriculados</th>
+<td style="font-weight:bold;text-align:right">100.210</td>
+<td style="font-weight:bold;text-align:right">115.238</td>
+<td style="font-weight:bold;text-align:right">215.448</td>
+<td style="font-weight:bold;text-align:right"></td>
+</tr>
+<tr class=" total">
+<th style="font-weight:bold;text-align:left" scope="row">Sistema universitario público</th>
+<td style="font-weight:bold;text-align:right">73.922</td>
+<td style="font-weight:bold;text-align:right">83.805</td>
+<td style="font-weight:bold;text-align:right">157.727</td>
+<td style="font-weight:bold;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Universidad de Barcelona</th>
+<td style="font-weight:normal;text-align:right">18.371</td>
+<td style="font-weight:normal;text-align:right">29.034</td>
+<td style="font-weight:bold;text-align:right">47.405</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Universidad Autónoma de Barcelona</th>
+<td style="font-weight:normal;text-align:right">14.967</td>
+<td style="font-weight:normal;text-align:right">20.581</td>
+<td style="font-weight:bold;text-align:right">35.548</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Universidad Politécnica de Cataluña</th>
+<td style="font-weight:normal;text-align:right">20.857</td>
+<td style="font-weight:normal;text-align:right">7.418</td>
+<td style="font-weight:bold;text-align:right">28.275</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Universidad Pompeu Fabra</th>
+<td style="font-weight:normal;text-align:right">5.113</td>
+<td style="font-weight:normal;text-align:right">7.451</td>
+<td style="font-weight:bold;text-align:right">12.564</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Universidad de Girona</th>
+<td style="font-weight:normal;text-align:right">6.017</td>
+<td style="font-weight:normal;text-align:right">7.610</td>
+<td style="font-weight:bold;text-align:right">13.627</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Universidad de Lleida</th>
+<td style="font-weight:normal;text-align:right">3.667</td>
+<td style="font-weight:normal;text-align:right">4.729</td>
+<td style="font-weight:bold;text-align:right">8.396</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Universidad Rovira i Virgili</th>
+<td style="font-weight:normal;text-align:right">4.930</td>
+<td style="font-weight:normal;text-align:right">6.982</td>
+<td style="font-weight:bold;text-align:right">11.912</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr class=" total">
+<th style="font-weight:bold;text-align:left" scope="row">Sistema universitario privado</th>
+<td style="font-weight:bold;text-align:right">9.429</td>
+<td style="font-weight:bold;text-align:right">12.547</td>
+<td style="font-weight:bold;text-align:right">21.976</td>
+<td style="font-weight:bold;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Universidad Ramon Llull</th>
+<td style="font-weight:normal;text-align:right">5.554</td>
+<td style="font-weight:normal;text-align:right">6.591</td>
+<td style="font-weight:bold;text-align:right">12.145</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Universidad de Vic-Universidad Central de Cataluña</th>
+<td style="font-weight:normal;text-align:right">2.038</td>
+<td style="font-weight:normal;text-align:right">3.099</td>
+<td style="font-weight:bold;text-align:right">5.137</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Universidad Internacional de Cataluña</th>
+<td style="font-weight:normal;text-align:right">1.195</td>
+<td style="font-weight:normal;text-align:right">2.030</td>
+<td style="font-weight:bold;text-align:right">3.225</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr>
+<th style="font-weight:normal;text-align:left" scope="row">Universidad Abat Oliba CEU</th>
+<td style="font-weight:normal;text-align:right">642</td>
+<td style="font-weight:normal;text-align:right">827</td>
+<td style="font-weight:bold;text-align:right">1.469</td>
+<td style="font-weight:normal;text-align:right"></td>
+</tr>
+<tr class="darrera total">
+<th style="font-weight:bold;text-align:left" scope="row">Universidad Abierta de Cataluña</th>
+<td style="font-weight:bold;text-align:right">16.859</td>
+<td style="font-weight:bold;text-align:right">18.886</td>
+<td style="font-weight:bold;text-align:right">35.745</td>
+<td style="font-weight:bold;text-align:right"></td>
+</tr>
+</tbody>
+</table>
+<br />Institut d'Estadística de Catalunya<br /> <a href="https://www.idescat.cat/pub/?id=aec&amp;n=753&amp;t=2014&amp;lang=es">https://www.idescat.cat/pub/?id=aec&amp;n=753&amp;t=2014&amp;lang=es</a>
